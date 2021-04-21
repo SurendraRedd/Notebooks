@@ -1,1 +1,7 @@
 jupyter-book
+pandas
+seaborn
+dtale
+pandas-profiling==2.7.1
+sweetviz
+autoviz
